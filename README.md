@@ -162,7 +162,8 @@ A software project in my development portfolio.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/22c55e/DevMaroof" alt="Maroof's GitHub Contribution Graph" width="95%" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DevMaroof)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maroof-khan-4aa831365/)
 
 </div>
 
