@@ -148,7 +148,7 @@ A software project in my development portfolio.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevMaroof/DevMaroof/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMaroof&theme=tokyo-night&hide_border=true" />
 
 </div>
 
