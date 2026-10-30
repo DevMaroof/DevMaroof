@@ -148,7 +148,11 @@ A software project in my development portfolio.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMaroof&theme=tokyo-night&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMaroof/DevMaroof/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevMaroof/DevMaroof/output/github-snake.svg" />
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/DevMaroof/DevMaroof/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
