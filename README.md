@@ -17,7 +17,7 @@
 
 ## 📊 Developer Dashboard
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" align="center">
 
@@ -142,19 +142,6 @@ A software project in my development portfolio.
 
 </div>
 
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMaroof/DevMaroof/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevMaroof/DevMaroof/output/github-snake.svg" />
-  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/DevMaroof/DevMaroof/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
 
 ---
 
